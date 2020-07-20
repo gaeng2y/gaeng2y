@@ -4,6 +4,6 @@
 
 - Email: gaeng1107@gmail.com
 - Github: https://github.com/g4eng
-- Notion: https://notion.so/kyleyang
+- Notion: https://www.notion.so/kyleyang/iOS-Documents-97432c08f8b94c3f8fa1e82ba8e6c68c
 - LinkedIn: https://www.linkedin.com/in/g4eng/
 
