@@ -1,7 +1,7 @@
 # 양경모
 
 #### 디자인과 iOS 개발을 공부하는 사람입니다.
-##### SWMaestro 11st Mentee
+##### SWMaestro 11th Mentee
 
 - Email: gaeng1107@gmail.com
 - Github: https://github.com/g4eng
