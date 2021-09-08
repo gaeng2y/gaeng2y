@@ -5,5 +5,4 @@
 
 - Email: gaeng1107@gmail.com
 - Github: https://github.com/g4eng
-- Notion: https://iosgaeng.oopy.io/
 - LinkedIn: https://www.linkedin.com/in/g4eng/
