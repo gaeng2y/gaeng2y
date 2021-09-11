@@ -2,25 +2,18 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-
 ### <div align="center">I'm Kyeongmo,A passionate iOS developer who love UI/UX design from Korea 👨‍💻 working remotely since 2020 🚀</div>  
   
-
 - 🔭 I’m currently working on [ExodusEnt](https://apps.apple.com/kr/app/%EC%B5%9C%EC%95%A0%EB%8F%8C-kpop-idol-rankings/id1131995698)  
-  
 
 - 📝 I regularly write articles on https://g4eng.github.io  
-  
-
+ 
 - 🌱 I’m currently learning RxSwift, SwiftUI, Realm  
-  
 
 - ❓ Ask me about anything related to iOS development tech  
-  
-
+ 
 - 📫 How to reach me gaeng1107@gmail.com  
-  
-
+ 
 - ⚡ Fun fact: I am a grammar nerd in both real language and programming language  
   
 
@@ -29,8 +22,6 @@
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Dev & Design  
 <div align="center">  
@@ -99,15 +90,8 @@
 
 <br/>  
 
-<br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=g4eng&&style=flat-square)  
   
 
 <br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
