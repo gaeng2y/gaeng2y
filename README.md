@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-### <div align="center">I'm Kyle, A passionate iOS developer who love UI/UX design from Korea 👨‍💻 working since 2020 🚀</div>  
+### <div align="center">I'm Kyle, A passionate iOS developer who love UI/UX design from Korea 👨‍💻 working since 2020 🚀 ![Profile views counter](https://komarev.com/ghpvc/?username=g4eng&&style=flat-square)  </div>  
   
 - 🔭 I’m currently working on [ExodusEnt](https://apps.apple.com/kr/app/%EC%B5%9C%EC%95%A0%EB%8F%8C-kpop-idol-rankings/id1131995698)  
 
@@ -91,7 +91,7 @@
 <br/>  
 
 
-![Profile views counter](https://komarev.com/ghpvc/?username=g4eng&&style=flat-square)  
+
   
 
 <br/>  
