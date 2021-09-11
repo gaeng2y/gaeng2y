@@ -3,8 +3,6 @@
 </div>  
   
 ### <div align="center">I'm Kyle, A passionate iOS developer who love UI/UX design from Korea 👨‍💻 working since 2020 🚀 ![Hits counter](https://komarev.com/ghpvc/?username=g4eng&&style=flat-round)  </div>  
-  
-- 🔭 I’m currently working on [ExodusEnt](https://apps.apple.com/kr/app/%EC%B5%9C%EC%95%A0%EB%8F%8C-kpop-idol-rankings/id1131995698)  
 
 - 📝 I regularly write articles on https://g4eng.github.io  
  
