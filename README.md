@@ -3,6 +3,15 @@
 #### 디자인과 iOS 개발을 공부하는 사람입니다.
 ##### SWMaestro 11th Mentee
 
+ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://g4eng.github.io/)](https://g4eng.github.io/)
+	
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/g4neg/)](https://www.linkedin.com/in/g4eng/)
+	
+  [![Facebook Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/gaeng2y)](https://www.instagram.com/gaeng2y)
+  
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gaeng1107@gmail.com)](mailto:gaeng1107@gmail.com)
+
+
 - Email: gaeng1107@gmail.com
 - Github: https://github.com/g4eng
 - LinkedIn: https://www.linkedin.com/in/g4eng/
