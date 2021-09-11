@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on https://g4eng.github.io  
  
-- 🌱 I’m currently learning RxSwift, SwiftUI, Realm  
+- 🌱 I’m currently learning Data analytics, RxSwift, SwiftUI, Realm  
 
 - ❓ Ask me about anything related to iOS development tech  
  
