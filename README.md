@@ -8,9 +8,7 @@
  
 - 🌱 I’m currently learning Data analytics, RxSwift, SwiftUI, Realm  
 
-- ❓ Ask me about anything related to iOS development tech  
- 
-- 📫 How to reach me gaeng1107@gmail.com  
+- ❓ Ask me about anything related to iOS development tech   
  
 - ⚡ Fun fact: I am a grammar nerd in both real language and programming language  
   
