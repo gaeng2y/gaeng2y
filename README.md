@@ -11,10 +11,8 @@
 - ❓ Ask me about anything related to iOS development tech   
  
 - ⚡ Fun fact: I am a grammar nerd in both real language and programming language  
-  
-
+ 
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
