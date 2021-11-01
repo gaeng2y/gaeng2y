@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-### <div align="center">I'm Kyle, A passionate iOS developer who love UI/UX design from Korea 👨‍💻 working since 2020 🚀 ![Hits counter](https://komarev.com/ghpvc/?username=g4eng&&style=flat-round)  </div>  
+### <div align="center">I'm Kyle, A passionate iOS developer who love UI/UX design from Korea 👨‍💻 working since 2020 🚀 </div>  
 
 - 📝 I regularly write articles on https://g4eng.github.io  
  
