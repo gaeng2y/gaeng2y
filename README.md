@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/Sketch-F7B500?style=flat-square&logo=Sketch&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/></a>
-<br/>
+
 ## Github details
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=g4eng&show_icons=true&count_private=true&hide_border=true" align="center" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=g4eng&show_icons=true&locale=en&layout=compact" alt="g4eng" align="center"/></div> 
 
