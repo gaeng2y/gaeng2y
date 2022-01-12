@@ -2,7 +2,7 @@
 
 - 📝 I regularly write articles on https://g4eng.github.io  
  
-- 🌱 I’m currently learning RxSwift, SwiftUI
+- 🌱 I’m currently learning Combine, SwiftUI
 
 - ❓ Ask me about anything related to iOS development tech   
  
