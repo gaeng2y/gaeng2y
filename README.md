@@ -1,6 +1,6 @@
 ### <div align="center">I'm Kyle, A passionate iOS developer who love UI/UX design from Korea 👨‍💻 working since 2020 🚀 </div>  
 
-- 📝 I regularly write articles on https://g4eng.github.io  
+- 📝 I regularly write articles on https://gaeng2y.github.io  
  
 - 🌱 I’m currently learning Combine, SwiftUI
 
@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/></a>
 
 ## Github details
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=g4eng&show_icons=true&count_private=true&hide_border=true" align="center" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=g4eng&show_icons=true&locale=en&layout=compact" alt="g4eng" align="center"/></div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gaeng2y&show_icons=true&count_private=true&hide_border=true" align="center" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gaeng2y&show_icons=true&locale=en&layout=compact" alt="g4eng" align="center"/></div> 
 
 <br/>
 
