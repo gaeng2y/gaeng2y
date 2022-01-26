@@ -24,7 +24,8 @@
 <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/></a>
 
 ## Github details
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gaeng2y&show_icons=true&count_private=true&hide_border=true" align="center" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gaeng2y&show_icons=true&locale=en&layout=compact" alt="g4eng" align="center"/></div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gaeng2y&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gaeng2y&show_icons=true&locale=en&layout=compact" alt="g4eng" align="center"/></div> 
 
 <br/>
 
