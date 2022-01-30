@@ -5,8 +5,6 @@
 - 🌱 I’m currently learning Combine, SwiftUI
 
 - ❓ Ask me about anything related to iOS development tech   
- 
-- ⚡ Fun fact: I am a grammar nerd in both real language and programming language  
 
 </br>
 <p align="center" dir="auto">
