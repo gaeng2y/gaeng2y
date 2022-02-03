@@ -1,4 +1,4 @@
-### <div align="center">I'm Kyeong mo Yang, iOS Developers who like to chat from Korea 👨‍💻 working since 2020 🚀 </div>  
+### <div align="center">I'm Kyeong mo Yang, Software engineer who like to chat 👨‍💻 working since 2020 🚀 </div>  
 
 - 📝 I regularly write articles on https://gaeng2y.github.io  
  
