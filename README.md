@@ -1,8 +1,8 @@
 ### <div align="center">I'm Kyeong mo Yang, Software engineer who like to communication 👨‍💻 working since 2020 🚀 </div>  
 
-- 📝 I regularly write articles on https://gaeng2y.github.io  
+- 📝 I regularly write articles on https://gaeng2y.medium.com
  
-- 🌱 I’m currently learning Combine, SwiftUI
+- 🌱 I’m currently learning MVVM, Combine, SwiftUI
 
 - ❓ Ask me about anything related to iOS development tech   
 
