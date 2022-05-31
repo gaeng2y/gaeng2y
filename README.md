@@ -19,13 +19,6 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
 <br/>
 
-## Github details
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gaeng2y&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-<br/>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gaeng2y&show_icons=true&locale=en&layout=compact" alt="gaeng2y" align="center"/></div> 
-
-<br/>
-
 ## Connect with me  
 <div align="center">
 <a href="mailto:gaeng1107@gmail.com" target="_blank">
