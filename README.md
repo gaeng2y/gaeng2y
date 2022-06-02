@@ -2,7 +2,7 @@
 
 - 📝 I regularly write posts on https://gaeng2y.medium.com
  
-- 🌱 I’m currently learning MVVM, Combine
+- 🌱 I’m currently learning MVVM, Combine, RxSwift
 
 - ❓ Ask me about anything related to iOS development tech   
 
