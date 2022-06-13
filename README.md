@@ -4,7 +4,7 @@
  
 - 🌱 I’m currently learning MVVM, Combine, RxSwift
 
-- ❓ Ask me about anything related to iOS development tech   
+- ❓ Ask me about anything related to iOS dev tech   
 
 </br>
 <p align="center" dir="auto">
