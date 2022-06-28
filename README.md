@@ -19,8 +19,6 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
 <br/>
 
-<a href="https://opgc.me/#/users/gaeng2y" target="_blank"><img src="https://api.opgc.me/githubs/users/gaeng2y/tag/?theme=basic" /></a>
-
 ## Connect with me  
 <div align="center">
 <a href="mailto:gaeng1107@gmail.com" target="_blank">
