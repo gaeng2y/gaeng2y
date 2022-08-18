@@ -1,6 +1,6 @@
 ### <div align="left">I'm Kyeong mo Yang<br>Software engineer who know value of communication & collaboration 👨‍💻 <br>working since 2020 🚀 </div>  
 
-- 📝 I regularly write posts on [medium](https://gaeng2y.medium.com)
+- 📝 I regularly write posts on [<img src="https://img.shields.io/badge/Meidum-000000?style=flat-square&logo=Medium&logoColor=white"/></a>](https://gaeng2y.medium.com)
  
 - 🌱 I’m currently learning MVVM, Combine, RxSwift
 
