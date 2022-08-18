@@ -1,4 +1,5 @@
-### <div align="center">I'm Kyeong mo Yang, Software engineer who like to communication 👨‍💻 working since 2020 🚀 </div>  
+### <div align="center">I'm Kyeong mo Yang</div>
+### <div align="center">Software engineer who know value of communication & collaboration 👨‍💻 working since 2020 🚀 </div>  
 
 - 📝 I regularly write posts on [medium](https://gaeng2y.medium.com)
  
