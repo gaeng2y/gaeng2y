@@ -2,7 +2,7 @@
 
 - 📝 I regularly write posts on [<img src="https://img.shields.io/badge/Meidum-000000?style=flat-square&logo=Medium&logoColor=white"/></a>](https://gaeng2y.medium.com)
  
-- 🌱 I’m currently learning MVVM, Combine, RxSwift
+- 🌱 I’m currently learning MVVM, Combine, SwiftUI, Clean Architecture
 
 - ❓ Ask me about anything related to iOS dev tech   
 
