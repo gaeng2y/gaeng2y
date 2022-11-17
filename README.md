@@ -1,4 +1,4 @@
-### <div align="left"> I'm Kyeong mo Yang <br> A software engineer who aims to write easy-to-read code <br> and knows the value of communication and collaboration <br> working since 2020 🚀 </div>  
+### <div align="left"> I'm Kyeong mo Yang <br> A software engineer who aims to write easy-to-read code and knows the value of communication and collaboration <br> working since 2020 🚀 </div>  
 
 - 📝 I regularly write posts on [<img src="https://img.shields.io/badge/Meidum-000000?style=flat-square&logo=Medium&logoColor=white"/></a>](https://gaeng2y.medium.com)
  
