@@ -31,7 +31,7 @@
 
 ![contributes](./profile-3d-contrib/profile-night-green.svg)
 
-## Connect with me  
+## Connect
 <div align="left">
  <a href="https://open.kakao.com/me/gaeng2" target="_blank">
 <img src=https://img.shields.io/badge/kakaotalk-%23FFCD00.svg?&style=for-the-badge&logo=kakaotalk&logoColor=yellow alt=linkedin style="margin-bottom: 5px;" />
