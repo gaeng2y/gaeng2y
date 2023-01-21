@@ -4,7 +4,7 @@
  
 - 🌱 I’m currently learning Clean Architecture / Code, Design Pattern, Reactive Programming.
 
-- 💡 Let's think about the questions you have about iOS together.
+- 💡 Let's think about iOS together.
 
 ## Skills
 <p dir="auto">
