@@ -2,7 +2,7 @@
 
 - 📝 I regularly write posts on [<img src="https://img.shields.io/badge/Meidum-000000?style=flat-square&logo=Medium&logoColor=white"/></a>](https://gaeng2y.medium.com).
  
-- 🌱 I’m currently learning Clean Architecture / Code, Design Pattern, Combine Framework.
+- 🌱 I’m currently learning Clean Architecture / Code, Design Pattern, Combine, SwiftUI.
 
 - 💡 Let's think about iOS together.
 
