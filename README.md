@@ -1,4 +1,4 @@
-### <div align="left"> I'm Kyeongmo Yang <br> A software engineer who aims to write easy-to-read code and <br>knows the value of communication and collabolation <br> working since 2020 🚀 </div>  
+**I'm Kyeongmo Yang. <br>A software engineer who aims to write easy-to-read code and <br>knows the value of communication and collabolation <br>working since 2020 🚀**
 
 - 📝 I regularly write posts on [<img src="https://img.shields.io/badge/Meidum-000000?style=flat-square&logo=Medium&logoColor=white"/></a>](https://gaeng2y.medium.com).
  
@@ -6,7 +6,7 @@
 
 - 💡 Let's think about iOS together.
 
-## Skills
+**Skills**
 <p dir="auto">
  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
@@ -27,11 +27,11 @@
 <br/>
 </p>
 
-## Contributes
+**Contributes**
 
 ![contributes](./profile-3d-contrib/profile-night-green.svg)
 
-## Connect
+**Connect**
 <div align="left">
  <a href="https://open.kakao.com/me/gaeng2" target="_blank">
 <img src=https://img.shields.io/badge/kakaotalk-%23FFCD00.svg?&style=for-the-badge&logo=kakaotalk&logoColor=yellow alt=linkedin style="margin-bottom: 5px;" />
