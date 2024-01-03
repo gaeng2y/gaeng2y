@@ -27,10 +27,6 @@
 <br/>
 </p>
 
-**Contributes**
-
-![contributes](./profile-3d-contrib/profile-night-green.svg)
-
 **Connect**
 <div align="left">
  <a href="https://open.kakao.com/me/gaeng2" target="_blank">
