@@ -1,6 +1,6 @@
 **I'm Kyeongmo Yang. <br>A software engineer who aims to write easy-to-read code and <br>knows the value of communication and collabolation <br>working since 2020 🚀**
 
-- 📝 I regularly write posts on [<img src="https://img.shields.io/badge/Meidum-000000?style=flat-square&logo=Medium&logoColor=white"/></a>](https://gaeng2y.medium.com).
+- 📝 I regularly write posts on [Medium](https://gaeng2y.medium.com)
 
 - 💻 I aim to write code in the best possible way.
 
