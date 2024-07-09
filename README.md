@@ -1,4 +1,4 @@
-**I'm Kyeongmo Yang. <br>A software engineer who aims to write easy-to-read code and <br>knows the value of communication and collabolation <br>working since 2020 🚀**
+**I'm Kyeongmo Yang. working since 2020 🚀**
 
 - 📝 I regularly write posts on [Medium](https://gaeng2y.medium.com)
 
