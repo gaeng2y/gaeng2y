@@ -1,8 +1,10 @@
 **I'm Kyeongmo Yang. working since 2020 🚀**
 
-- 📝 I regularly write posts on [Medium](https://gaeng2y.medium.com)
+- 📖 I'm studying The Composable Architecture(TCA), but it's really difficult.
 
-- 💻 I aim to write code in the best possible way.
+- 💻 I strive to write code in the most optimal way.
+ 
+- 📝 I regularly write posts on [Medium](https://gaeng2y.medium.com) 
 
 **Skills**
 <p dir="auto">
