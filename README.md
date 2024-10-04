@@ -1,4 +1,4 @@
-**I'm Kyeongmo Yang. working since 2020 🚀**
+### I'm Kyeongmo Yang. working since 2020 🚀
 
 - 📖 I'm studying the Composable Architecture(TCA) and clean architecture
 
@@ -6,7 +6,7 @@
  
 - 📝 I regularly write posts on [Medium](https://gaeng2y.medium.com) 
 
-**Skills**
+### Skills
 <p dir="auto">
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Objective C-000000?style=flat-square&logo=Apple&logoColor=white"/></a>
@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/SwiftUI-40AEF0?style=flat-square&logo=Swift&logoColor=white"/></a>
 </p>
 
-**Connect**
+### Connect
 <div align="left">
  <a href="https://leetcode.com/u/gaeng2y" target="_blank">
 <img src=https://img.shields.io/badge/leetcode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -27,3 +27,7 @@
 <a href="https://open.kakao.com/me/gaeng2" target="_blank">
 <img src=https://img.shields.io/badge/kakaotalk-%23FFCD00.svg?&style=for-the-badge&logo=kakaotalk&logoColor=yellow alt=linkedin style="margin-bottom: 5px;" />
 </div>  
+
+### Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaeng2y)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages Card](https://github-readme-stats-theta-smoky-82.vercel.app/api/top-langs/?username=gaeng2y&hide_border=true&layout=compact&exclude_repo=github-readme-stats,RxLocalAuthentication)
