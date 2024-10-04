@@ -15,8 +15,6 @@
 <img src="https://img.shields.io/badge/SwiftUI-40AEF0?style=flat-square&logo=Swift&logoColor=white"/></a>
 </p>
 
-![Top Languages Card](https://github-readme-stats-theta-smoky-82.vercel.app/api/top-langs/?username=gaeng2y&hide_border=true&layout=compact&exclude_repo=github-readme-stats,RxLocalAuthentication)
-
 ### Connect
 <div align="left">
  <a href="https://leetcode.com/u/gaeng2y" target="_blank">
@@ -31,4 +29,4 @@
 
 ### Stats
 ![gaeng2y's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaeng2y&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=swift)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaeng2y&langs_count=6)
