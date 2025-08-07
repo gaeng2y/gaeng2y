@@ -1,6 +1,6 @@
 ### I'm Kyeongmo Yang. working since 2020 🚀
 
-- 📖 I'm studying the Composable Architecture(TCA) and clean architecture
+- 📖 I'm studying the architecture and design pattern
 
 - 💻 I strive to write code in the most optimal way.
  
