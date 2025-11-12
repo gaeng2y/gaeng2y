@@ -28,6 +28,13 @@
 <img src=https://img.shields.io/badge/kakaotalk-%23FFCD00.svg?&style=for-the-badge&logo=kakaotalk&logoColor=yellow alt=kakaotalk style="margin-bottom: 5px;"/>
 </div>  
 
-### Stats
-![gaeng2y's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaeng2y&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=swift)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaeng2y&langs_count=6)
+### History
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gaeng2y&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/gaeng2y"
+    width="600"
+    height="120"
+  />
+</a>
+  
